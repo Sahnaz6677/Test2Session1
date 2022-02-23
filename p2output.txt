@@ -1,1 +1,13 @@
-
+gcc -g p2original.c
+ ./a.out
+Enter the points :
+1 1
+2 2
+3 3
+The points will not form the triangle
+ ./a.out
+Enter the points :
+5 6
+2 3
+7 1
+The points will form the triangle
